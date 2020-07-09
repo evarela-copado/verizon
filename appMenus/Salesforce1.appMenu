@@ -17,6 +17,10 @@
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
+        <name>Inspection</name>
+        <type>CustomTab</type>
+    </appMenuItems>
+    <appMenuItems>
         <name>Search</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
